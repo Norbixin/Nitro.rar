@@ -2,7 +2,7 @@
 ### Script in python that removes silence parts from youtube video
 
 ## Usage
-- `./python.py`
+- `./nitro.py`
 
 ## Flags
 - `-h` help
