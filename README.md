@@ -4,7 +4,7 @@
 ## Usage
 
 - `chmod +x nitro.py`
-- `./nitro.py`
+- `./nitro.py -l <link>`
 
 ## Flags
 - `-h` help
