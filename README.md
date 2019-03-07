@@ -2,6 +2,8 @@
 ### Script in python that removes silence parts from youtube video
 
 ## Usage
+
+- `chmod +x nitro.py`
 - `./nitro.py`
 
 ## Flags
